@@ -9,13 +9,12 @@
 <h1>Demonstração da Aplicação</h1>
 <h1>Pré-requisitos e como rodar a aplicação/testes</h1>
 <h1>Tecnologias utilizadas</h1>
-<p>
-* PHP;
-* CRUL;
-* HTML;
-* CSS;
-* JAVASCRIPT;
-</p>
+- PHP;
+- CRUL;
+- HTML;
+- CSS;
+- JAVASCRIPT;
+
 <h1>Contribuição</h1>
 <h1>Autor</h1>
 <h1>Licença</h1>
