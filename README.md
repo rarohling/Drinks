@@ -29,3 +29,11 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 - CSS
 - JAVASCRIPT
 
+<h1>Rodar aplicação localmente</h1>
+Instalar WampServer software interpretador de scripts locais.
+
+Tutorial de instalação: https://wampserver.aviatechno.net/
+
+Após instalação do wampserver o usuaário deve mover os arquivos do projeto para a pasta "www" localizada dentro da instalaçao do wamp.
+Apos abra no navegador o endereço localhost/
+
