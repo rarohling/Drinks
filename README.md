@@ -13,10 +13,10 @@ Exibi Cards dos drinks disponíveis contendo imagem, descrição e botão de [+]
 ## Tela de detalhamento
 Detalhamento baseando no Drink selecionado pelo usuário exibindo todas as informações.
 
-## Botão Compartilhamento
+## Botão compartilhamento
 Botão de compartilhamento disponivel na descrição do Drink.
 
-## Botão para Avaliação do Drink
+## Botão avaliação do Drink
 Será disponivel um botão para avaliar o Drink, ao clicar o usuário tera a acesso a um modal onde podera avaliar o Drink com 1 até 5 estrelas.
 
 ## Confirmação da avaliação
