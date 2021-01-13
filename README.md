@@ -22,42 +22,10 @@ Será disponivel um botão para avaliar o Drink, ao clicar o usuário tera a ace
 ## Confirmação da avaliação
 Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink, e o usuário receberá uma mensagem de agradecimento.
 
-<h1>Badges</h1>
-<h1>Status do Projeto</h1>
-<h1>Tabela de Conteúdos</h1>
-<h1>Features</h1>
-<h1>Demonstração da Aplicação</h1>
-<h1>Pré-requisitos e como rodar a aplicação/testes</h1>
 <h1>Tecnologias utilizadas</h1>
 - PHP
-- CRUL
+- CURL
 - HTML
 - CSS
 - JAVASCRIPT
-
-<h1>Contribuição</h1>
-<h1>Autor</h1>
-<h1>Licença</h1>
-
-## Integração contínua
-Notou os emblemas (_badges_) no início da página? Todo _commit_ na presente
-página automaticamente irá realizar uma série de operações, como compilação,
-execução dos testes de unidade e várias análises estáticas. O resultado
-geral é imediatamente acessível por meio dos emblemas (clique neles),
-onde detalhes são disponibilizados nas páginas correspondentes.
-Observe que isso se transforma em um significativo **instrumento
-de visibilidade do projeto**.
-
-Para projetos _open source_ os serviços oferecidos são gratuitos. Seguem aqui os
-merecidos agradecimentos a:
-- https://travis-ci.com
-- https://sonarcloud.io
-- https://snyk.io
-
-A lista acima não tem a pretensão de ser exclusiva. Abaixo seguem outros serviços:
-- https://www.codacy.com/
-- https://codescene.io/
-- https://codecov.io/
-- http://circleci.com/
-- https://codeclimate.com/quality/
 
