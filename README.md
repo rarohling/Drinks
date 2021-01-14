@@ -1,3 +1,7 @@
+<h1>Autor</h1>
+<b>Ricardo Alves Rohling</b><br>
+e-mail: r.a.rohling@gmail.com
+
 <h1>Drinks</h1>
 <p>Projeto Front End, com implementação de uma Single Page Application para consumir os endpoints constantes no sítio https://www.thecocktaildb.com/api.php?ref=apilist.fun</p>
 
