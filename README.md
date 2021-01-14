@@ -24,12 +24,12 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 
 <h1>PrtScn do Projeto</h1>
 <img src="https://docs.google.com/uc?id=14-hXPB2zg0sAZk-xRZoxJWtndTHyhE3D"/>
-<img src="https://docs.google.com/uc?id=16ViRn1BA-AxXsv6uMPH6BPUvF_sLOUDZ"/>
-<img src="https://docs.google.com/uc?id=177B839toSB21tuCk7QvAoBGBKojQruNe"/>
-<img src="https://docs.google.com/uc?id=17D_YaB4bnXxzM8a--n6n54AZ5VP4zXEn"/>
-<img src="https://docs.google.com/uc?id=1IgH1YiIuckKPTVN0ad4pSmsbqG7EOgEs"/>
-<img src="https://docs.google.com/uc?id=1JAdLKmFXN3z1tc_lBp_pL7qvHxNffLbR"/>
 <img src="https://docs.google.com/uc?id=1ME9_iSLDaaM6HCt8i0hbyZWRgWjEoR1i"/>
+<img src="https://docs.google.com/uc?id=1IgH1YiIuckKPTVN0ad4pSmsbqG7EOgEs"/>
+<img src="https://docs.google.com/uc?id=17D_YaB4bnXxzM8a--n6n54AZ5VP4zXEn"/>
+<img src="https://docs.google.com/uc?id=1JAdLKmFXN3z1tc_lBp_pL7qvHxNffLbR"/>
+<img src="https://docs.google.com/uc?id=177B839toSB21tuCk7QvAoBGBKojQruNe"/>
+<img src="https://docs.google.com/uc?id=16ViRn1BA-AxXsv6uMPH6BPUvF_sLOUDZ"/>
 <img src="https://docs.google.com/uc?id=1nnGg-0AZ56v7yltPzcfSMGoJyMZnFt8Y"/>
 
 <h1>Tecnologias utilizadas</h1>
