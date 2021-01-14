@@ -22,6 +22,9 @@ Será disponivel um botão para avaliar o Drink, ao clicar o usuário tera a ace
 Confirmação da avaliação: 
 Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink, e o usuário receberá uma mensagem de agradecimento.
 
+<h1>PrtScn do Projeto</h1>
+<img src="https://drive.google.com/drive/u/0/folders/1R_Y0pkoVzqpsZCagjEwIPgCBHKJwJAnC"/>
+
 <h1>Tecnologias utilizadas</h1>
 - PHP<br>
 - CURL<br>
