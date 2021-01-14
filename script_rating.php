@@ -31,7 +31,7 @@ if($star=='3'){echo '<table border="0" align="center"><tr><td><img src="images/s
 if($star=='4'){echo '<table border="0" align="center"><tr><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star1.png" width="30px"/></td></tr></table>';};
 if($star=='5'){echo '<table border="0" align="center"><tr><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td><td><img src="images/star2.png" width="30px"/></td></tr></table>';};
 
-echo "<br><center><a href='http://mabilete.com.br/projeto/details.php?idDrink=$idDrink'><button type=\"button\" class=\"button\">Back to the Drink</button></a></center></div>"
+echo "<br><center><a href='details.php?idDrink=$idDrink'><button type=\"button\" class=\"button\">Back to the Drink</button></a></center></div>"
 ?>
 
  <script>
