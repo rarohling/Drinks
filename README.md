@@ -30,10 +30,37 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 - JAVASCRIPT
 
 <h1>Rodar aplicação localmente</h1>
-Instalar WampServer software interpretador de scripts locais.
+
+Para utilizar a aplicação localmente o usuário devera possuir um software de interpretação de scripts locais.
+
+Orientamos a instalação do WampServer software interpretador de scripts locais.
 
 Tutorial de instalação: https://wampserver.aviatechno.net/
 
-Após instalação do wampserver o usuaário deve mover os arquivos do projeto para a pasta "www" localizada dentro da instalaçao do wamp.
-Apos abra no navegador o endereço localhost/
+Após instalação do WampServer o usuário deve mover os arquivos do projeto para a pasta "www" localizada dentro da pasta de instalaçao do WampServer.
 
+Inicie o WampServer abra o navegador e digite o endereço "localhost/drink". (dentro da pasta drink deve existir todas as documentações deste projeto.)
+
+Pronto, o projeto iniciara localmente.
+
+<h1>Rodar aplicação web (deploy)</h1>
+
+Para rodar a aplicação web o usuário precisara de um servidor de hospedagem e um dominio ativo.
+
+Com as informações de hospedagens em mão o usuário deverá realizar os seguintes passos:
+
+Passo 1: O primeiro passo é logar no cPanel. Para isso use o endereço seudominio/cpanel, adicione o login e senha nos campos respectivos. E depois clique em login.
+
+Passo 2: Já dentro do painel, vamos localizar e selecionar a opção gerenciador de aquivos. 
+
+Passo 3: Você precisar localizar a pasta public_html, a qual pertence à parte principal do seu site. Você deve clicar em cima dela e entrar na pasta. 
+
+Passo 4: Já dentro da public_html, clique em carregar.
+
+Na próxima tela, você pode clicar no botão selecionar o arquivo. Ou pode também arrastar os arquivos do projeto para dentro do cpanel.
+
+Depois, o sistema vai iniciar o upload. Aguarde finalizar, e clique em voltar.
+
+Na tela anterior, você vai ver que os arquivos que enviamos, agora estão presentes dentro da public_html.
+
+Acesse novamente seu domínio, e seu site estará publicado.
