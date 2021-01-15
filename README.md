@@ -47,9 +47,13 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 O usuário deverá realizar os seguintes passos para executar o projeto no Docker.
 
 1º Passo: O usuário devera fazer o dowload do projeto no computado.
+
 2º Passo: Inicie o CMD e navegue ate o diretorio do projeto para executar os comando do Docker.
+
 3º Passo: execute o seguinte comando: <code>docker build -t drinks_image .</code>.
+
 4º Passo: execute o comando para iniciar a imagem: <code>docker run -p 80:80 -d drinks_image</code>.
+
 5º Passo: O projeto já estara funcionando, basta abrir o navegador e acessar http://localhost.
 
 
