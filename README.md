@@ -37,7 +37,8 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 <img src="https://docs.google.com/uc?id=1nnGg-0AZ56v7yltPzcfSMGoJyMZnFt8Y"/>
 
 <h1>Video do Projeto</h1>
-[<img src="https://img.youtube.com/vi/CIpXEJjc3EQ/maxresdefault.jpg" width="50%">](https://youtu.be/CIpXEJjc3EQ)
+[![Alt text for your video](doc/gifName.gif)](https://www.youtube.com/watch?v=CIpXEJjc3EQ)
+[![SC2 Video](https://img.youtube.com/vi/CIpXEJjc3EQ/0.jpg)](http://www.youtube.com/watch?v=CIpXEJjc3EQ)
 
 <h1>Tecnologias utilizadas</h1>
 - PHP<br>
