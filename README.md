@@ -26,7 +26,7 @@ Será disponivel um botão para avaliar o Drink, ao clicar o usuário tera a ace
 Confirmação da avaliação: 
 Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink, e o usuário receberá uma mensagem de agradecimento.
 
-<h1>PrtScn do Projeto</h1>
+<h1>Imagens do Projeto</h1>
 <img src="https://docs.google.com/uc?id=14-hXPB2zg0sAZk-xRZoxJWtndTHyhE3D"/>
 <img src="https://docs.google.com/uc?id=1JAdLKmFXN3z1tc_lBp_pL7qvHxNffLbR"/>
 <img src="https://docs.google.com/uc?id=1ME9_iSLDaaM6HCt8i0hbyZWRgWjEoR1i"/>
@@ -35,6 +35,9 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 <img src="https://docs.google.com/uc?id=177B839toSB21tuCk7QvAoBGBKojQruNe"/>
 <img src="https://docs.google.com/uc?id=16ViRn1BA-AxXsv6uMPH6BPUvF_sLOUDZ"/>
 <img src="https://docs.google.com/uc?id=1nnGg-0AZ56v7yltPzcfSMGoJyMZnFt8Y"/>
+
+<h1>Video do Projeto</h1>
+[![Watch the video](https://img.youtube.com/vi/T-CIpXEJjc3EQ/maxresdefault.jpg)](https://youtu.be/CIpXEJjc3EQ)
 
 <h1>Tecnologias utilizadas</h1>
 - PHP<br>
