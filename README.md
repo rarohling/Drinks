@@ -46,6 +46,7 @@ Após clicar nas estrelas desejadas o sistema processara a avaliação do Drink,
 <h1>Rodar Imagem Docker</h1>
 O usuário deverá realizar os seguintes passos para executar o projeto no Docker.
 
+
 1º Passo: O usuário devera fazer o dowload do projeto no computado.
 
 2º Passo: Inicie o CMD e navegue ate o diretorio do projeto para executar os comando do Docker.
@@ -77,13 +78,13 @@ Para rodar a aplicação web o usuário precisara de um servidor de hospedagem e
 
 Com as informações de hospedagens em mão o usuário deverá realizar os seguintes passos:
 
-Passo 1: O primeiro passo é logar no cPanel. Para isso use o endereço seudominio/cpanel, adicione o login e senha nos campos respectivos. E depois clique em login.
+1º Passo: Primeiramente precisamos logar no cPanel de hospedagem. Para isso use o endereço com seu seudominio/cpanel, adicione o login e senha nos campos respectivos. e depois clique em login.
 
-Passo 2: Já dentro do painel, vamos localizar e selecionar a opção gerenciador de aquivos. 
+2º Passo: Já dentro do painel, vamos localizar e selecionar a opção gerenciador de aquivos. 
 
-Passo 3: Você precisar localizar a pasta public_html, a qual pertence à parte principal do seu site. Você deve clicar em cima dela e entrar na pasta. 
+3º Passo: Você precisar localizar a pasta public_html, a qual pertence à parte principal do seu site. Você deve clicar em cima dela e acessar a pasta. 
 
-Passo 4: Já dentro da public_html, clique em carregar.
+4º Passo: Já dentro da pasta/diretorio public_html, clique em carregar.
 
 Na próxima tela, você pode clicar no botão selecionar o arquivo. Ou pode também arrastar os arquivos do projeto para dentro do cpanel.
 
